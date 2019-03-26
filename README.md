@@ -1,0 +1,3 @@
+# LSPDFR-Tool
+I developed this tool due to an issue myself and a few others had while attempting to play LSPDFR and FiveM.
+We discovered that some servers utilize a trainer that is server sided and with LSPDFR installed in the same directory, a conflict occurs and does not allow the server sided trainer to work. Therefore I created this tool to simply scan the directory for some files to verify which directory is which and then rename the directories accordingly. This allows LSPDFR to still operate out of what it thinks is the Grand Theft Auto V folder and still update properly, as well as those who wish to play true online without getting banned, still can.
